@@ -1,0 +1,14 @@
+C:\Users\Pethr\OneDrive\Dokument\Programmering\Fördjupande programmering\FP lektion 1 övning 1\FP lektion 1 övning 1\bin\Debug\net8.0\FP lektion 1 övning 1.exe
+C:\Users\Pethr\OneDrive\Dokument\Programmering\Fördjupande programmering\FP lektion 1 övning 1\FP lektion 1 övning 1\bin\Debug\net8.0\FP lektion 1 övning 1.deps.json
+C:\Users\Pethr\OneDrive\Dokument\Programmering\Fördjupande programmering\FP lektion 1 övning 1\FP lektion 1 övning 1\bin\Debug\net8.0\FP lektion 1 övning 1.runtimeconfig.json
+C:\Users\Pethr\OneDrive\Dokument\Programmering\Fördjupande programmering\FP lektion 1 övning 1\FP lektion 1 övning 1\bin\Debug\net8.0\FP lektion 1 övning 1.dll
+C:\Users\Pethr\OneDrive\Dokument\Programmering\Fördjupande programmering\FP lektion 1 övning 1\FP lektion 1 övning 1\bin\Debug\net8.0\FP lektion 1 övning 1.pdb
+C:\Users\Pethr\OneDrive\Dokument\Programmering\Fördjupande programmering\FP lektion 1 övning 1\FP lektion 1 övning 1\obj\Debug\net8.0\FP lektion 1 övning 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pethr\OneDrive\Dokument\Programmering\Fördjupande programmering\FP lektion 1 övning 1\FP lektion 1 övning 1\obj\Debug\net8.0\FP lektion 1 övning 1.AssemblyInfoInputs.cache
+C:\Users\Pethr\OneDrive\Dokument\Programmering\Fördjupande programmering\FP lektion 1 övning 1\FP lektion 1 övning 1\obj\Debug\net8.0\FP lektion 1 övning 1.AssemblyInfo.cs
+C:\Users\Pethr\OneDrive\Dokument\Programmering\Fördjupande programmering\FP lektion 1 övning 1\FP lektion 1 övning 1\obj\Debug\net8.0\FP lektion 1 övning 1.csproj.CoreCompileInputs.cache
+C:\Users\Pethr\OneDrive\Dokument\Programmering\Fördjupande programmering\FP lektion 1 övning 1\FP lektion 1 övning 1\obj\Debug\net8.0\FP lektion 1 övning 1.dll
+C:\Users\Pethr\OneDrive\Dokument\Programmering\Fördjupande programmering\FP lektion 1 övning 1\FP lektion 1 övning 1\obj\Debug\net8.0\refint\FP lektion 1 övning 1.dll
+C:\Users\Pethr\OneDrive\Dokument\Programmering\Fördjupande programmering\FP lektion 1 övning 1\FP lektion 1 övning 1\obj\Debug\net8.0\FP lektion 1 övning 1.pdb
+C:\Users\Pethr\OneDrive\Dokument\Programmering\Fördjupande programmering\FP lektion 1 övning 1\FP lektion 1 övning 1\obj\Debug\net8.0\FP lektion 1 övning 1.genruntimeconfig.cache
+C:\Users\Pethr\OneDrive\Dokument\Programmering\Fördjupande programmering\FP lektion 1 övning 1\FP lektion 1 övning 1\obj\Debug\net8.0\ref\FP lektion 1 övning 1.dll
